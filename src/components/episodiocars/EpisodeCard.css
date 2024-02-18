@@ -1,0 +1,13 @@
+.card__episode {
+  width: 15rem;
+  border-radius: 0.25rem;
+}
+
+.card__episode:hover{
+  background-color: rgb(226, 226, 243);
+  cursor:pointer;
+}
+
+.link{
+  text-decoration: none;
+}
